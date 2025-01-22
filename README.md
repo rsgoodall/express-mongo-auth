@@ -14,17 +14,19 @@ It's mostly from John Smilga's Udmey course with only a few minor alterations.
 
 To get this project going create a .env file and set values for the parameters below:
 
->MONGO_URI=
->PORT=
->PUBLIC_URL=
->PUBLIC_ASSETS=./public
->EMAIL_SMTP_HOST=
->EMAIL_SMTP_PORT=
->EMAIL_SMTP_USER=
->EMAIL_SMTP_PASS=
->EMAIL_FROM=
->JWT_SECRET=
->JWT_LIFETIME=
+```
+MONGO_URI=
+PORT=
+PUBLIC_URL=
+PUBLIC_ASSETS=./public
+EMAIL_SMTP_HOST=
+EMAIL_SMTP_PORT=
+EMAIL_SMTP_USER=
+EMAIL_SMTP_PASS=
+EMAIL_FROM=
+JWT_SECRET=
+JWT_LIFETIME=
+```
 
 
 ### Run
